@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upkip Documentation</title>
+    <link>http://127.0.0.1:5501/</link>
+    <description>Recent content on Upkip Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 May 2021 15:51:36 +0300</lastBuildDate><atom:link href="http://127.0.0.1:5501/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Persister servers</title>
+      <link>http://127.0.0.1:5501/servers/persister/</link>
+      <pubDate>Thu, 20 May 2021 15:49:18 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/servers/persister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calendars</title>
+      <link>http://127.0.0.1:5501/planning/calendars/</link>
+      <pubDate>Thu, 20 May 2021 15:47:53 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/planning/calendars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://127.0.0.1:5501/data/events/</link>
+      <pubDate>Thu, 20 May 2021 15:44:12 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organization structure</title>
+      <link>http://127.0.0.1:5501/devices/orgstructure/</link>
+      <pubDate>Thu, 20 May 2021 15:42:33 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/devices/orgstructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configure users and groups</title>
+      <link>http://127.0.0.1:5501/users/configusers/</link>
+      <pubDate>Thu, 20 May 2021 15:38:36 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/users/configusers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessing and Logging</title>
+      <link>http://127.0.0.1:5501/overview/logging/</link>
+      <pubDate>Thu, 20 May 2021 15:37:06 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/overview/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis servers</title>
+      <link>http://127.0.0.1:5501/servers/analysis/</link>
+      <pubDate>Thu, 20 May 2021 15:49:33 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/servers/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Import</title>
+      <link>http://127.0.0.1:5501/planning/import/</link>
+      <pubDate>Thu, 20 May 2021 15:48:16 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/planning/import/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warnings</title>
+      <link>http://127.0.0.1:5501/data/warnings/</link>
+      <pubDate>Thu, 20 May 2021 15:44:20 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/warnings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factory layout</title>
+      <link>http://127.0.0.1:5501/devices/factorylayout/</link>
+      <pubDate>Thu, 20 May 2021 15:43:19 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/devices/factorylayout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>View and edit users</title>
+      <link>http://127.0.0.1:5501/users/vieweditusers/</link>
+      <pubDate>Thu, 20 May 2021 15:42:08 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/users/vieweditusers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI Functionalities</title>
+      <link>http://127.0.0.1:5501/overview/uifunc/</link>
+      <pubDate>Thu, 20 May 2021 15:37:47 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/overview/uifunc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notification servers</title>
+      <link>http://127.0.0.1:5501/servers/notif/</link>
+      <pubDate>Thu, 20 May 2021 15:49:45 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/servers/notif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notifications from machine alarms</title>
+      <link>http://127.0.0.1:5501/data/notifalarms/</link>
+      <pubDate>Thu, 20 May 2021 15:44:37 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/notifalarms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gateways</title>
+      <link>http://127.0.0.1:5501/devices/gateways/</link>
+      <pubDate>Thu, 20 May 2021 15:43:47 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/devices/gateways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notifemails</title>
+      <link>http://127.0.0.1:5501/data/notifemails/</link>
+      <pubDate>Thu, 20 May 2021 15:45:23 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/notifemails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notifications to user Viber</title>
+      <link>http://127.0.0.1:5501/data/notifviber/</link>
+      <pubDate>Thu, 20 May 2021 15:45:37 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/notifviber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notifications by SMS</title>
+      <link>http://127.0.0.1:5501/data/notifsms/</link>
+      <pubDate>Thu, 20 May 2021 15:45:50 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/notifsms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notifications to Microsoft Teams</title>
+      <link>http://127.0.0.1:5501/data/notifteams/</link>
+      <pubDate>Thu, 20 May 2021 15:46:24 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/notifteams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculated tags</title>
+      <link>http://127.0.0.1:5501/data/calctags/</link>
+      <pubDate>Thu, 20 May 2021 15:46:47 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/data/calctags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

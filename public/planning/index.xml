@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planning on Upkip Documentation</title>
+    <link>http://127.0.0.1:5501/planning/</link>
+    <description>Recent content in Planning on Upkip Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 May 2021 15:51:03 +0300</lastBuildDate><atom:link href="http://127.0.0.1:5501/planning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calendars</title>
+      <link>http://127.0.0.1:5501/planning/calendars/</link>
+      <pubDate>Thu, 20 May 2021 15:47:53 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/planning/calendars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Import</title>
+      <link>http://127.0.0.1:5501/planning/import/</link>
+      <pubDate>Thu, 20 May 2021 15:48:16 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/planning/import/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

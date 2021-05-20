@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users Management on Upkip Documentation</title>
+    <link>http://127.0.0.1:5501/users/</link>
+    <description>Recent content in Users Management on Upkip Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 May 2021 15:51:36 +0300</lastBuildDate><atom:link href="http://127.0.0.1:5501/users/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure users and groups</title>
+      <link>http://127.0.0.1:5501/users/configusers/</link>
+      <pubDate>Thu, 20 May 2021 15:38:36 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/users/configusers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>View and edit users</title>
+      <link>http://127.0.0.1:5501/users/vieweditusers/</link>
+      <pubDate>Thu, 20 May 2021 15:42:08 +0300</pubDate>
+      
+      <guid>http://127.0.0.1:5501/users/vieweditusers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
